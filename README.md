@@ -16,3 +16,17 @@ BUSINESS GOAL (OBJECTIVE)
 You are required to model the price of cars with the available independent variables. The management will use it to understand how exactly the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
 
 DATA DESCRIPTION
+
+Number of variables	26
+Number of observations	205
+Missing cells	0
+Missing cells (%)	0.0%
+Duplicate rows	0
+Duplicate rows (%)	0.0%
+Total size in memory	41.8 KiB
+Average record size in memory	208.6 B
+
+Variable types
+Numeric	16
+Categorical	10
+
