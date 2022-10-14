@@ -18,15 +18,24 @@ You are required to model the price of cars with the available independent varia
 DATA DESCRIPTION
 
 Number of variables	26
+
 Number of observations	205
+
 Missing cells	0
+
 Missing cells (%)	0.0%
+
 Duplicate rows	0
+
 Duplicate rows (%)	0.0%
+
 Total size in memory	41.8 KiB
+
 Average record size in memory	208.6 B
 
 Variable types
+
 Numeric	16
+
 Categorical	10
 
